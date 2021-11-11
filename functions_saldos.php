@@ -46,7 +46,7 @@
 		function generarRequerimiento(){
 		wp_reset_query();
 		$serie = 'SP1';
-		$token = 'e348d7be3b8dd5838815b760763f7b1a3d1bd0067ff087e35d622afaaf8af843';
+		$token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 		$url = 'https://www.banxico.org.mx/SieAPIRest/service/v1/series';
 
 		//  $valueRq = $_POST['selectColoniarq'];
